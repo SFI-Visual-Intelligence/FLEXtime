@@ -1,3 +1,5 @@
+Paper: FLEXtime: Filterbank Learning to Explain Time Series ([Link](https://api.nva.unit.no/publication/0199ecc3c346-63431fd3-80d9-47b8-844c-e7cb71a91018))
+
 # FLEXtime: Filterbank learning to explain time series
 
 This repository implements FLEXtime (Filterbank Learning to EXplain time series). If you have any questions, please contact me on theb@dtu.dk. 
